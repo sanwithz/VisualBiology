@@ -1,0 +1,5 @@
+{
+  "name": "Visual Biology",
+  "description": "Interactive biological network visualization using D3 force-directed graphs with 'sticky' nodes, enhanced by Gemini AI for generating dynamic pathway data.",
+  "requestFramePermissions": []
+}
